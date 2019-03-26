@@ -1,0 +1,2 @@
+# thangcoreapp
+Thang Core App
